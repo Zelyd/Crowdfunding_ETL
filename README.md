@@ -42,3 +42,7 @@ The goal of this project is to process and clean crowdfunding data from the `cro
 6. `campaign.csv`: Exported CSV file containing campaign data.
 7. `contacts.csv`: Exported CSV file containing contact data.
 8. `crowdfunding_db_schema.sql`: SQL file containing the schema for the PostgreSQL database.
+
+## Below is the ERD for the Crowdfunding Database:
+
+![Entity-Relationship Diagram](ERD.png)
